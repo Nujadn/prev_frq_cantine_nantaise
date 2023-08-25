@@ -24,10 +24,8 @@ L’organisation des repas scolaires se fait dans une suite chronologique d’é
 L'objectif du projet est de mettre un outil à la disposition des agents de restauration de chaque école pour qu'ils puissent prédire la fréquentation des élèves à leur cantine. Ensuite ils transmettront leur estimation du nombre de repas à servir à la cantine centrale.
 La cuisine centrale livre tous les jours entre 12 000 et 15 000 repas à environ 87 cantines scolaires sur la métropole nantaise. Ils ont pour objectif de réduire le gaspillage alimentaire mais sans faire de prévisions "trop-juste". En effet, des prévisions trop justes impliquerait que des enfants n’aient pas à manger certains midi. 
 
-La problématique principale est de prédire 3 semaines à l'avance les repas. Ces prédictions sont journalières et se font en fonction des menus.
-
-Pour remplir cet objectif, ils ont récolté et constitué un dataset allant de 2011 à 2019 sous format .csv. Ce dataset est disponible sur leur site et contient des informations sur la date et la constitution du repas.
-
 A l’heure actuel, ils ont un gaspillage d’environ 1 250 repas par jour. Ils avaient en moyenne 5 % de gâchis alimentaire entre 2011 à 2016, puis en moyenne 8 % entre 2017 à 2019. 
 
+La problématique est de prédire 3 semaines à l'avance les repas. Ces prédictions sont journalières et se font en fonction des menus. En sachant que les élèves sont inscrits le matin pour manger à la cantine le midi ce qui génère de forte variabilité.
 
+Pour remplir cet objectif, ils ont récolté et constitué un dataset allant de 2011 à 2019 sous format .csv. Ce dataset est disponible sur leur site et contient des informations sur la date et la constitution du repas.
