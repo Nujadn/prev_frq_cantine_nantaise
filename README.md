@@ -19,6 +19,8 @@ L’organisation des repas scolaires se fait dans une suite chronologique d’é
 
 ## Besoin du client
 
+![image](https://github.com/Nujadn/prev_frq_cantine_nantaise/assets/142103183/7df948d4-cc41-4245-94ae-c3433724b14b)
+
 L'objectif du projet est de mettre un outil à la disposition des agents de restauration de chaque école pour qu'ils puissent prédire la fréquentation des élèves à leur cantine. Ensuite ils transmettront leur estimation du nombre de repas à servir à la cantine centrale.
 La cuisine centrale livre tous les jours entre 12 000 et 15 000 repas à environ 87 cantines scolaires sur la métropole nantaise. Ils ont pour objectif de réduire le gaspillage alimentaire mais sans faire de prévisions "trop-juste". En effet, des prévisions trop justes impliquerait que des enfants n’aient pas à manger certains midi. 
 
