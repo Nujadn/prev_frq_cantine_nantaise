@@ -9,7 +9,7 @@ Dans le schéma ci-dessous, on peut observer le processus actuel de leur organis
 ![image](https://github.com/Nujadn/prev_frq_cantine_nantaise/assets/142103183/47a5973c-af42-4aef-9436-e6844d37f52e)
 
 L’organisation des repas scolaires se fait dans une suite chronologique d’évènements suivant :
-- constitution des menus ;
+- constitution des menus ; 
 - commandes des matières premières auprès des fournisseurs ;
 - réception des ingrédients auprès de chaque fournisseur ;
 - constitution des repas ;
